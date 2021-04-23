@@ -1,7 +1,7 @@
 #include "jaroWinkler.hpp"
 
 #include <algorithm>
-
+#include <vector>
 
 
 
